@@ -1,0 +1,175 @@
+fileFormatVersion: 2
+guid: 2cbb92a2ec35c434985575783bbda6d1
+timeCreated: 1496399243
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: A_1
+    100004: A_2
+    100006: A_3
+    100008: B_1
+    100010: B_2
+    100012: B_3
+    100014: C_1
+    100016: C_2
+    100018: C_3
+    100020: D_1
+    100022: D_2
+    100024: D_3
+    100026: Door_CLosed
+    100028: E_1
+    100030: E_2
+    100032: E_3
+    100034: Generator Room
+    100036: Plane
+    100038: X -Empty Space
+    400000: //RootNode
+    400002: A_1
+    400004: A_2
+    400006: A_3
+    400008: B_1
+    400010: B_2
+    400012: B_3
+    400014: C_1
+    400016: C_2
+    400018: C_3
+    400020: D_1
+    400022: D_2
+    400024: D_3
+    400026: Door_CLosed
+    400028: E_1
+    400030: E_2
+    400032: E_3
+    400034: Generator Room
+    400036: Plane
+    400038: X -Empty Space
+    2300000: A_1
+    2300002: A_2
+    2300004: A_3
+    2300006: B_1
+    2300008: B_2
+    2300010: B_3
+    2300012: C_1
+    2300014: C_2
+    2300016: C_3
+    2300018: D_1
+    2300020: D_2
+    2300022: D_3
+    2300024: Door_CLosed
+    2300026: E_1
+    2300028: E_2
+    2300030: E_3
+    2300032: Generator Room
+    2300034: Plane
+    2300036: X -Empty Space
+    3300000: A_1
+    3300002: A_2
+    3300004: A_3
+    3300006: B_1
+    3300008: B_2
+    3300010: B_3
+    3300012: C_1
+    3300014: C_2
+    3300016: C_3
+    3300018: D_1
+    3300020: D_2
+    3300022: D_3
+    3300024: Door_CLosed
+    3300026: E_1
+    3300028: E_2
+    3300030: E_3
+    3300032: Generator Room
+    3300034: Plane
+    3300036: X -Empty Space
+    4300000: A_1
+    4300002: A_2
+    4300004: A_3
+    4300006: B_1
+    4300008: B_2
+    4300010: C_1
+    4300012: C_2
+    4300014: C_3
+    4300016: D_1
+    4300018: D_2
+    4300020: D_3
+    4300022: B_3
+    4300024: E_1
+    4300026: E_2
+    4300028: E_3
+    4300030: Generator Room
+    4300032: X -Empty Space
+    4300034: Plane
+    4300036: Door_CLosed
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
